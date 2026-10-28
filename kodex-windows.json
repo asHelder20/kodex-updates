@@ -1,0 +1,10 @@
+{
+    "version":  "0.2.0",
+    "notes":  "Atualizações automáticas no Windows: o KODEX passa a instalar sozinho as versões novas.",
+    "file":  "KODEX-Windows-0.2.0.msi",
+    "sha256":  "d3b2a69086512a0760ece5a84084960b8f7e48b89e720e4afb9754d9d8825934",
+    "size":  173298893,
+    "sig":  "co19KN24M6ZVFc5k+aZFORpPpRVzKENOP8Zfhijtuu37+jU9smUti918pAiAfaR9vU7b6ZN0u7Ea29IfUzR5DcF3QvGBYEhCRMGFmDkMT3p5uNVeMT0doGxWO0WsduuXkfgdYboe48/SxyGDxKcHTdSsb9jH2CacbgtxYXA/tfNhSv6bXFOrjN+ogUyz9QKz7x+WGM1mkhEqYxfp/irnEvRMfC1gJQh29nv9GnB3HyEIRTHvUIaatm4K9iAfdd8CqNtgzzHukqUQG7a/SGpXQgDmuGQ7ReMmkCIBj9GZU1lHuk8WrR6lhWOfiiudAhNj8BbEp2p5ar/LbkMGXq4Teg==",
+    "server":  "http://ww.superman88.site:8080",
+    "serverSig":  "PefZim77skEt9nhz74939bkdtaB2WbKdkmZkw+Lnl0K4oGyS9WQ6HvMAHZtn1mJkGwB6/4iBYFenscfB17V6RYaPGgKK3l4Q8RR/CuoB29Ro/FbgXTfcxILIRqKLvNsc9dJgS77OuG8gICJlmB6KgSACelbT35DjmOeObqh1uisePCN27l81jmLaE6rMv93dBfJiQJwttfDLpT+pzmsmwNAnVnU0ZYv8+J7LIjC0i9t1Bwl/6f1BTKt489D+RxY0mydSch88jqZHWf/YbrgqMf83f3KxGib8nNr/GNsBwms7uv/cA4QZb2DdszrwLAGUMz8R9XnNg6G/sLKEW4n1YA=="
+}
