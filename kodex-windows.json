@@ -1,10 +1,10 @@
 {
-    "version":  "0.2.4",
-    "notes":  "Prepara o KODEX Admin: o servidor passa a poder ser mudado também a partir do telemóvel do dono.",
-    "file":  "KODEX-Windows-0.2.4.msi",
-    "sha256":  "e930b223c532ca1ff7034ab7fff4a8fc044e49ef1d6a311e635cfb2cfd2b2aff",
-    "size":  173409488,
-    "sig":  "i1xFurhB3PD3FWs486KHMqL/bS+uoN3LCocuzGCkUSygZMdhW0OdOReOjFYk2c2Ghpg5Rl5BBqa1TAMwfVZfhzqBK/dfloCFAgNekWPh/AfEOK/lz91bLTCpDltF91K30RBffzBMK7uUrW+zAGbR0Q/92uf8g72yqr1XMjLDrsEkLdsepo8FDhdQyDapHOmFEKSFuxGJXjK9rZ1F8mOJgqfwSX9QcSaCRj4PRfZ9UrY7yU/vuk4UZ5zSVgj9Zew7n/YERK8a3U2xh+R4wMT2fMgefsGi9l3HwBv4IiWKn7xK9JKn3zKTBYHe3DOgGPZjEioNue6pCOD9nF2hCbjCHw==",
+    "version":  "0.2.5",
+    "notes":  "Novo Guia TV: programação de todos os canais por dia e por hora, com botão para ir direto ao canal; Guia Desportivo com todos os jogos, filtro por desporto e escolha do canal.",
+    "file":  "KODEX-Windows-0.2.5.msi",
+    "sha256":  "979a228bf8e5f0e80bdb49824b1ff993495f87868e2d4d6561e14f40dbb00f67",
+    "size":  173454541,
+    "sig":  "iY2kgxxUfCzLrIG15Vcr5L9+yYhgPH/N+SHto4T9+9Kn+H9e4+XN+xviQGRBr9p5TOBz2zRNO8ki+2Dm+/LrDguFv5gZzs9h6SEPPe05WAxSLnlDCifUoX4gr+XbWvyaLd1QGlCeQN0VV2V6BA7DvyOoWAPX/FpzMOQ6N7hKSn5FILyENjMp6PAO+Nc9vtAx1nKNc8Wy6sKxldYBPL52v/+9jhPeE+6ikyEbrbC72/uL/mBFkt8lXRMFsxHEFPNGIwTdmzIHZ3e6dC+JSQZrNDn+yXaWikBC/hnw90vwSt5SgFyjH/dDcnjn+oV6mV8O7i9bb9UpKmz9NmmmwtRRng==",
     "server":  "http://ww.superking12.xyz:8080",
     "serverSig":  "O+cVf/KwyuXUbeAxA+D86lcD0W7E4bWd4ffvipjCDPkeS0YDBPzuTMc4f9kMI51o/UYuuN3SvXleRgo+IVsBtQyr2L2CW/89KlKSzTJ775zZpffbw5kscE6tkadec55YwqKuA/5Dhp/63sjcDxo3C+RxlPIfjBKoL3U3fQSPFMXVWfQYkczE9PQmdwXsk3tC5esztbj9LZLv2Y7Jq3FH3SA8RGpHrdzBbqt9N3nvNgj2lWAOdrWdX2BDF/ihmQ3WIITgamgo6Fyf8w1s+P265VGa9sCg3O58732wvFYIWOUIQOr7EINLMSs6H7aQ+IWCFXnq9l/fgbg/1JbKTn+1/g=="
 }
