@@ -1,10 +1,10 @@
 {
-    "version":  "0.2.5",
-    "notes":  "Novo Guia TV: programação de todos os canais por dia e por hora, com botão para ir direto ao canal; Guia Desportivo com todos os jogos, filtro por desporto e escolha do canal.",
-    "file":  "KODEX-Windows-0.2.5.msi",
-    "sha256":  "979a228bf8e5f0e80bdb49824b1ff993495f87868e2d4d6561e14f40dbb00f67",
-    "size":  173454541,
-    "sig":  "iY2kgxxUfCzLrIG15Vcr5L9+yYhgPH/N+SHto4T9+9Kn+H9e4+XN+xviQGRBr9p5TOBz2zRNO8ki+2Dm+/LrDguFv5gZzs9h6SEPPe05WAxSLnlDCifUoX4gr+XbWvyaLd1QGlCeQN0VV2V6BA7DvyOoWAPX/FpzMOQ6N7hKSn5FILyENjMp6PAO+Nc9vtAx1nKNc8Wy6sKxldYBPL52v/+9jhPeE+6ikyEbrbC72/uL/mBFkt8lXRMFsxHEFPNGIwTdmzIHZ3e6dC+JSQZrNDn+yXaWikBC/hnw90vwSt5SgFyjH/dDcnjn+oV6mV8O7i9bb9UpKmz9NmmmwtRRng==",
+    "version":  "0.2.6",
+    "notes":  "Séries com episódios visíveis. Guia TV e menus mais rápidos (menos ligações ao servidor). Janela de atualização mais legível.",
+    "file":  "KODEX-Windows-0.2.6.msi",
+    "sha256":  "7e9015f330413bac1c70b9043bd1dbec19337f4ac6383fbce210c617621e2673",
+    "size":  173483214,
+    "sig":  "Om4m/IJpbOsSPG5rVamtKC6FA9kYcRNXZMQhIhah3obrjUwda+417Ci0/zXXWNvRL52xwmjsBGlQq/lhyf+zRiSNHYUmUCk+9C0UaoZM+uBc+XBga6evEpx8pa4ZOvOdSPxhVhLF6bOLc5KSNiJSkOb7OUf8B8QqYywqUnppdraEXbIYdr/MDqy5t857Ittzy/tkuxbJcfpF0gpPDqxFmaJbm682rFHb/EhWuMJEJhX6EuaXylqxv7jOm/fJUqvvjW4ETOZGIqV9QVMrVvLaN+HiEluDfOFO3O0PFQeWXUXijJF6expP4vCOWLy99OlFWsgoCPiyZqbrPMgv39+KZg==",
     "server":  "http://ww.superking12.xyz:8080",
     "serverSig":  "O+cVf/KwyuXUbeAxA+D86lcD0W7E4bWd4ffvipjCDPkeS0YDBPzuTMc4f9kMI51o/UYuuN3SvXleRgo+IVsBtQyr2L2CW/89KlKSzTJ775zZpffbw5kscE6tkadec55YwqKuA/5Dhp/63sjcDxo3C+RxlPIfjBKoL3U3fQSPFMXVWfQYkczE9PQmdwXsk3tC5esztbj9LZLv2Y7Jq3FH3SA8RGpHrdzBbqt9N3nvNgj2lWAOdrWdX2BDF/ihmQ3WIITgamgo6Fyf8w1s+P265VGa9sCg3O58732wvFYIWOUIQOr7EINLMSs6H7aQ+IWCFXnq9l/fgbg/1JbKTn+1/g=="
 }
