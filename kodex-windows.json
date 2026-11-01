@@ -1,10 +1,10 @@
 {
-    "version":  "0.2.1",
-    "notes":  "Servidor novo dentro da app; procura atualizações logo ao abrir",
-    "file":  "KODEX-Windows-0.2.1.msi",
-    "sha256":  "bf1ce249f085dfe9e409476600b5e473c63ad597b7e4f1b7ed501d4a44819133",
-    "size":  173302992,
-    "sig":  "KvHOQkj6P31qH6nLXVfCbCHdGImBSPYGwoPs+YofvS8K5o0szEBXyGGfDgKeKRsw0grECKcB5wyIes6O91yOPGaVo6US1fr9GJAPYKb5r0yNsXV1OruAAdHIto8cMzlGpq8LWgNfeAw9Fgp5tM+/kP1CDSKKnA0qFBafa59fGs1zlIqKUdvCEVgSMWsYmEAX4YeoDsiAkd4Ax2N8+rqn081m0TgAqRX8N74IwBqXwZcjQUiEFCwbMzP5TG8Rnx+P/zsze0gog/gcNzAAyxRUlW+rmGzk3dlalITtFKLrHkW67wwRg+YZmInpXwBnwUCv//Zbpk7XpCaBxLl8z+p1lg==",
+    "version":  "0.2.2",
+    "notes":  "Línguas português, inglês e espanhol. Séries recentemente adicionadas. Pesquisa nos filmes e séries. Ecrã e Tamanho da imagem (teclas E e T). Guia de desporto. O histórico segue as mudanças de servidor.",
+    "file":  "KODEX-Windows-0.2.2.msi",
+    "sha256":  "b191b5383ab440ba02ba2232cb5b7bca38f8e56e835ccc05de0accc26195aff1",
+    "size":  173405391,
+    "sig":  "LA7bcuHc4dw77/kx19SgcljJvr+EHit4qSr3zZTUrs2O4iQR4lP40gLPsECSBNf4dXz7T4ih+KKMyg2KhNCiTedGNjLnkCBTgkjjuI327RlgivcE6jNT5LU/JxvVwf7g14WGTg5uSzUcHgfq82qqThV+chDaxP1ujDCRhnhUJrA0DJtbX/6K4wWqhvWuOv4UkrR3OSEpTrwiSRAMvFOrtcxLxT37MsaH///aXuaA3YLig5Kaqvfeezy/1zXmRTjVAsghhAJBkfoTg/L6Ve6ViMma8/SyugQ7YxoOxivkqFrUTeiRdudftfpxSpnvV11Tzyx9VjDFowD+K9j83FbqfA==",
     "server":  "http://ww.superking12.xyz:8080",
     "serverSig":  "O+cVf/KwyuXUbeAxA+D86lcD0W7E4bWd4ffvipjCDPkeS0YDBPzuTMc4f9kMI51o/UYuuN3SvXleRgo+IVsBtQyr2L2CW/89KlKSzTJ775zZpffbw5kscE6tkadec55YwqKuA/5Dhp/63sjcDxo3C+RxlPIfjBKoL3U3fQSPFMXVWfQYkczE9PQmdwXsk3tC5esztbj9LZLv2Y7Jq3FH3SA8RGpHrdzBbqt9N3nvNgj2lWAOdrWdX2BDF/ihmQ3WIITgamgo6Fyf8w1s+P265VGa9sCg3O58732wvFYIWOUIQOr7EINLMSs6H7aQ+IWCFXnq9l/fgbg/1JbKTn+1/g=="
 }
