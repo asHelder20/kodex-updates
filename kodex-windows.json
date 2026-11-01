@@ -1,10 +1,10 @@
 {
-    "version":  "0.2.2",
-    "notes":  "Línguas português, inglês e espanhol. Séries recentemente adicionadas. Pesquisa nos filmes e séries. Ecrã e Tamanho da imagem (teclas E e T). Guia de desporto. O histórico segue as mudanças de servidor.",
-    "file":  "KODEX-Windows-0.2.2.msi",
-    "sha256":  "b191b5383ab440ba02ba2232cb5b7bca38f8e56e835ccc05de0accc26195aff1",
-    "size":  173405391,
-    "sig":  "LA7bcuHc4dw77/kx19SgcljJvr+EHit4qSr3zZTUrs2O4iQR4lP40gLPsECSBNf4dXz7T4ih+KKMyg2KhNCiTedGNjLnkCBTgkjjuI327RlgivcE6jNT5LU/JxvVwf7g14WGTg5uSzUcHgfq82qqThV+chDaxP1ujDCRhnhUJrA0DJtbX/6K4wWqhvWuOv4UkrR3OSEpTrwiSRAMvFOrtcxLxT37MsaH///aXuaA3YLig5Kaqvfeezy/1zXmRTjVAsghhAJBkfoTg/L6Ve6ViMma8/SyugQ7YxoOxivkqFrUTeiRdudftfpxSpnvV11Tzyx9VjDFowD+K9j83FbqfA==",
+    "version":  "0.2.3",
+    "notes":  "Guia de desporto em todos os canais de desporto e nos generalistas portugueses (RTP, SIC, TVI, CNN Portugal, Porto Canal, Canal 11), com os jogos a aparecer à medida que são encontrados.",
+    "file":  "KODEX-Windows-0.2.3.msi",
+    "sha256":  "b072f669e99a0884d478375219334a98b80d1eb245237de1a121fee70a3c1a0b",
+    "size":  173417678,
+    "sig":  "d2PvuccfgOXRucNKiziHk8lvr8iyMpi6a3ctSSBBh33NQY1QIaSU9+k05irbIwyWhyvxZkmj3CQaBqDqlZhgGCg28YECm5WB1aosPhQaegQ+3/yz6JD3myY4RcNHnm8tKSMpfGWsxEQAiG4iXT1H8Ow8bqhdfV/aDf2rA3uDR41SxPORNw+wLLlpEbf1kyvCYQSpxCOvNeqyeWAxRr9lmA7yFKGwcKmKrZL4qSgMfZ0bTgtTeWf12qxr24wP5cRuZwAuVOptXrtuXdqMqyZYyUvwS5wkoRIfUH6A95Ti2CCE76kSVNNUwuDpfJ6XIsdKgwbNKL7v8bj2RiPM8sgayg==",
     "server":  "http://ww.superking12.xyz:8080",
     "serverSig":  "O+cVf/KwyuXUbeAxA+D86lcD0W7E4bWd4ffvipjCDPkeS0YDBPzuTMc4f9kMI51o/UYuuN3SvXleRgo+IVsBtQyr2L2CW/89KlKSzTJ775zZpffbw5kscE6tkadec55YwqKuA/5Dhp/63sjcDxo3C+RxlPIfjBKoL3U3fQSPFMXVWfQYkczE9PQmdwXsk3tC5esztbj9LZLv2Y7Jq3FH3SA8RGpHrdzBbqt9N3nvNgj2lWAOdrWdX2BDF/ihmQ3WIITgamgo6Fyf8w1s+P265VGa9sCg3O58732wvFYIWOUIQOr7EINLMSs6H7aQ+IWCFXnq9l/fgbg/1JbKTn+1/g=="
 }
