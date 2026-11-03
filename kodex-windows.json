@@ -1,10 +1,10 @@
 {
-    "version":  "0.2.6",
-    "notes":  "Séries com episódios visíveis. Guia TV e menus mais rápidos (menos ligações ao servidor). Janela de atualização mais legível.",
-    "file":  "KODEX-Windows-0.2.6.msi",
-    "sha256":  "7e9015f330413bac1c70b9043bd1dbec19337f4ac6383fbce210c617621e2673",
-    "size":  173483214,
-    "sig":  "Om4m/IJpbOsSPG5rVamtKC6FA9kYcRNXZMQhIhah3obrjUwda+417Ci0/zXXWNvRL52xwmjsBGlQq/lhyf+zRiSNHYUmUCk+9C0UaoZM+uBc+XBga6evEpx8pa4ZOvOdSPxhVhLF6bOLc5KSNiJSkOb7OUf8B8QqYywqUnppdraEXbIYdr/MDqy5t857Ittzy/tkuxbJcfpF0gpPDqxFmaJbm682rFHb/EhWuMJEJhX6EuaXylqxv7jOm/fJUqvvjW4ETOZGIqV9QVMrVvLaN+HiEluDfOFO3O0PFQeWXUXijJF6expP4vCOWLy99OlFWsgoCPiyZqbrPMgv39+KZg==",
-    "server":  "http://ww.superking12.xyz:8080",
-    "serverSig":  "O+cVf/KwyuXUbeAxA+D86lcD0W7E4bWd4ffvipjCDPkeS0YDBPzuTMc4f9kMI51o/UYuuN3SvXleRgo+IVsBtQyr2L2CW/89KlKSzTJ775zZpffbw5kscE6tkadec55YwqKuA/5Dhp/63sjcDxo3C+RxlPIfjBKoL3U3fQSPFMXVWfQYkczE9PQmdwXsk3tC5esztbj9LZLv2Y7Jq3FH3SA8RGpHrdzBbqt9N3nvNgj2lWAOdrWdX2BDF/ihmQ3WIITgamgo6Fyf8w1s+P265VGa9sCg3O58732wvFYIWOUIQOr7EINLMSs6H7aQ+IWCFXnq9l/fgbg/1JbKTn+1/g=="
+    "version":  "0.2.7",
+    "notes":  "Atualizacao do servidor.",
+    "file":  "KODEX-Windows-0.2.7.msi",
+    "sha256":  "92638cc68b079e823da2691850e004c2220d4a9ae65d29f6fea8707a786d7252",
+    "size":  173487311,
+    "sig":  "QnvQaWHDl9upoerdfL019WREPx7ouwIKhEdboh1JTFHa20gs5bk7ZFbH9i6Si7kVjIvY2Xmomb0dH6Z6/lpLMg+7r3dXGYYh6id+70tBkjFMhQMcWLja5zyKwA9zDHD8krToiOUUtjuU6zS8aus9GlaYFblL5iEA+PJkArcFgxw9pxxo3ialQMYJFY/mVApZH4vUJ2UDnEyWs4ryO/AB5yaR5KS0hIbHzB5+rGenYF/z6F0MsnfyZ6vId3Mkl0319xQLLrml08gE6oJg1yYEKtVLOVbVrY/OoSnD8kGCkni1GCKg718VRnH/3YVYbDuse6UDYAMWUxl//uthhp385g==",
+    "server":  "http://ww.supermanhelp.shop:8080",
+    "serverSig":  "a29ndK9Ka1kGIWkoFg3F40cWv8sQ8138yBM0zVu+9Ur5uuOMNZQ+vBr0Mt8Gd2JA6a6gRD6RVixnUnmVSc8TQyScU1dJqJsFtS+NWTnLItVW/rrDQlyYwq3PNhW7wdnnvAylYaiQzHIN7WSsaWsSjD/iHj9ugGzzPC8D4I1YMx4szskVehS4I5LbL/BzmCrZ9L25uJ9ALGe2i1qFDHYMdxbtPjbHFHReQm4nBj6U6fK28BLqPm97EsQAvgp5hNsIMgRJJCTceq4mXbCPeGwj9bFraGFOAT0lPCSN7UyPSnFv+a5ufCtiBvl/2mnBd20TuvrkCy0CAwy2B3qVZZE9tQ=="
 }
