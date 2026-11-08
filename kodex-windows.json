@@ -1,10 +1,10 @@
 {
-    "version":  "0.2.7",
-    "notes":  "Atualizacao do servidor.",
-    "file":  "KODEX-Windows-0.2.7.msi",
-    "sha256":  "92638cc68b079e823da2691850e004c2220d4a9ae65d29f6fea8707a786d7252",
-    "size":  173487311,
-    "sig":  "QnvQaWHDl9upoerdfL019WREPx7ouwIKhEdboh1JTFHa20gs5bk7ZFbH9i6Si7kVjIvY2Xmomb0dH6Z6/lpLMg+7r3dXGYYh6id+70tBkjFMhQMcWLja5zyKwA9zDHD8krToiOUUtjuU6zS8aus9GlaYFblL5iEA+PJkArcFgxw9pxxo3ialQMYJFY/mVApZH4vUJ2UDnEyWs4ryO/AB5yaR5KS0hIbHzB5+rGenYF/z6F0MsnfyZ6vId3Mkl0319xQLLrml08gE6oJg1yYEKtVLOVbVrY/OoSnD8kGCkni1GCKg718VRnH/3YVYbDuse6UDYAMWUxl//uthhp385g==",
+    "version":  "0.2.8",
+    "notes":  "Filmes e series ficam em Continuar a ver para retomar mais tarde.",
+    "file":  "KODEX-Windows-0.2.8.msi",
+    "sha256":  "f2ba3a4ee99cdc98b6998bf70247d60f3a1f1227356c8f7516b9bfb79e1e7aa9",
+    "size":  173483211,
+    "sig":  "qqmx90Qo3bODIUVm7nstZNIeRoXN+LtYMyMzOT2yz8WvTLNYpOczkr+lwFM0cD6P4fyO016xpfoEmbyiIsl4fnKh+Vd6OXNnzVgsk9gUqlyNkOVBzyENgNOyX3D2adCtNgBI5DO95xktzuucXZMhIKsZbE+dfkGsmDx1R1S61ry3FxLUtRaXX2RadJFUtG51oOavNMuWxaQ/XCH1xtRFIzLTNuE+ajI8opUKLkGYWUU6M1R8JxGjSTrm/LQr0y982rdO18eoA1TMsTpa+jciKyek3P12jLaqPwtKhWTKoZO/6DVB2kiiAlNzHUV+zROPJLyKMq8ebgtvIUtOMabwag==",
     "server":  "http://ww.supermanhelp.shop:8080",
     "serverSig":  "a29ndK9Ka1kGIWkoFg3F40cWv8sQ8138yBM0zVu+9Ur5uuOMNZQ+vBr0Mt8Gd2JA6a6gRD6RVixnUnmVSc8TQyScU1dJqJsFtS+NWTnLItVW/rrDQlyYwq3PNhW7wdnnvAylYaiQzHIN7WSsaWsSjD/iHj9ugGzzPC8D4I1YMx4szskVehS4I5LbL/BzmCrZ9L25uJ9ALGe2i1qFDHYMdxbtPjbHFHReQm4nBj6U6fK28BLqPm97EsQAvgp5hNsIMgRJJCTceq4mXbCPeGwj9bFraGFOAT0lPCSN7UyPSnFv+a5ufCtiBvl/2mnBd20TuvrkCy0CAwy2B3qVZZE9tQ=="
 }
