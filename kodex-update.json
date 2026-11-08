@@ -1,0 +1,24 @@
+{
+    "versionCode":  32,
+    "versionName":  "1.0.4",
+    "notes":  "Correcao: a verificacao de atualizacao deixa de dar timeout (passa a ler do raw.githubusercontent.com).",
+    "apks":  {
+                 "tv":  {
+                            "file":  "KODEX-1.0.4-tv.apk",
+                            "sha256":  "42f492e7f2ffd8618313b21e798120ab5a0b01d96dc6ad35bfbe333051b214a9",
+                            "size":  48678159
+                        },
+                 "antigas":  {
+                                 "file":  "KODEX-1.0.4-antigas.apk",
+                                 "sha256":  "3188abf6aa2eb804379081d69195fd7ffad16be30ebeb7695b44c33072b62a04",
+                                 "size":  24496946
+                             },
+                 "emulador":  {
+                                  "file":  "KODEX-1.0.4-emulador.apk",
+                                  "sha256":  "8bee86fe3f5139b04e600e0fa4b8ef067823c07f674469f5808c4b78cad3e467",
+                                  "size":  29932379
+                              }
+             },
+    "server":  "http://ww.supermanhelp.shop:8080",
+    "serverSig":  "a29ndK9Ka1kGIWkoFg3F40cWv8sQ8138yBM0zVu+9Ur5uuOMNZQ+vBr0Mt8Gd2JA6a6gRD6RVixnUnmVSc8TQyScU1dJqJsFtS+NWTnLItVW/rrDQlyYwq3PNhW7wdnnvAylYaiQzHIN7WSsaWsSjD/iHj9ugGzzPC8D4I1YMx4szskVehS4I5LbL/BzmCrZ9L25uJ9ALGe2i1qFDHYMdxbtPjbHFHReQm4nBj6U6fK28BLqPm97EsQAvgp5hNsIMgRJJCTceq4mXbCPeGwj9bFraGFOAT0lPCSN7UyPSnFv+a5ufCtiBvl/2mnBd20TuvrkCy0CAwy2B3qVZZE9tQ=="
+}
